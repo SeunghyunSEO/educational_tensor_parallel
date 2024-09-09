@@ -1,12 +1,12 @@
 # References
 
 - Papers
-        - [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)
-        - [Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)
+  - [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/abs/1909.08053)
+  - [Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)
 - Others
-        - [pytorch.org/tutorials/intermediate/TP_tutorial.html](https://pytorch.org/tutorials/intermediate/TP_tutorial.html)
-        - [lightning.ai/docs/pytorch/stable/advanced/model_parallel/tp.html](https://lightning.ai/docs/pytorch/stable/advanced/model_parallel/tp.html)
-        - [pytorch/torchtitan/blob/main/torchtitan/parallelisms/parallelize_llama.py](https://github.com/pytorch/torchtitan/blob/main/torchtitan/parallelisms/parallelize_llama.py)
+  - [pytorch.org/tutorials/intermediate/TP_tutorial.html](https://pytorch.org/tutorials/intermediate/TP_tutorial.html)
+  - [lightning.ai/docs/pytorch/stable/advanced/model_parallel/tp.html](https://lightning.ai/docs/pytorch/stable/advanced/model_parallel/tp.html)
+  - [pytorch/torchtitan/blob/main/torchtitan/parallelisms/parallelize_llama.py](https://github.com/pytorch/torchtitan/blob/main/torchtitan/parallelisms/parallelize_llama.py)
 
 
 # Goal
