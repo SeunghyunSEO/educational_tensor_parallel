@@ -371,7 +371,7 @@ torchrun --nproc_per_node=$WORLD_SIZE --master_addr=$MASTER_ADDR --master_port=$
 
 - batch_size: 256
 - sqe_len: 256
-- 1gpu baseline 2gpu TP
+- 1gpu baseline vs 2gpu TP
 
 ```bash
 export LOCAL_RANK=1 &&\
